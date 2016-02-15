@@ -130,10 +130,10 @@ body {
 }
 #footer h3 {
         padding-top: 3%;
-	padding-bottom: 3%;
+	padding-bottom: 2%;
 	font-size: 40pt;
 	font-family: "league-gothic",sans-serif;
-	color: #0a5771;
+	color: #ffffff;
 	font-weight: 300;
 	margin: 0px;	
 }
@@ -148,7 +148,7 @@ body {
 	font-family: 'Roboto', sans-serif;
 	font-weight: 100;
 	color: #ffffff;
-	font-size: 12pt;
+	font-size: 14pt;
 	margin: 0px;
 }
 }
