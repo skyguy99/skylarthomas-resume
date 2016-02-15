@@ -128,6 +128,15 @@ body {
 #footer #container {
 	clear: both;
 }
+#footer h3 {
+        padding-top: 3%;
+	padding-bottom: 3%;
+	font-size: 40pt;
+	font-family: "league-gothic",sans-serif;
+	color: #0a5771;
+	font-weight: 300;
+	margin: 0px;	
+}
 #aboutPar {
 	width: 60%;
 	margin: auto;
@@ -135,11 +144,11 @@ body {
 }
 #aboutPar p{
 	text-align: justify;
-	line-height: 170%;
+	line-height: 150%;
 	font-family: 'Roboto', sans-serif;
-	font-weight: 300;
+	font-weight: 100;
 	color: #ffffff;
-	font-size: 20pt;
+	font-size: 10pt;
 	margin: 0px;
 }
 }
