@@ -34,8 +34,8 @@ body {
 	padding: 0;
 	display: inline;
 	font-family: 'Roboto', sans-serif;
-	font-weight: 300;
-	font-size: 10pt;
+	font-weight: 400;
+	font-size: 30pt;
 	margin: 0px;
 	
 }
@@ -119,7 +119,7 @@ body {
 #page1 h1 {
 	padding-top: 3%;
 	padding-bottom: 3%;
-	font-size: 70pt;
+	font-size: 100pt;
 	font-family: "league-gothic",sans-serif;
 	color: #09445F;
 	font-weight: 300;
