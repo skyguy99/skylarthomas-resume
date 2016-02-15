@@ -29,7 +29,7 @@ body {
 	margin: 0px;
 	padding-bottom: 3.5%;
 }
-/*
+
 #nav ul {
 	list-style-type: none;
 	overflow: hidden;
@@ -63,7 +63,7 @@ body {
 	display: inline;
 	padding: 75px;
 	margin: 0px;
-}*/
+}
 
 #scrollDown {
 	margin-top: 1.7%;
@@ -164,37 +164,5 @@ body {
 	height: 60px;
 	margin: 0px;
 	left: 5px;
-}
-
-
-#nav a {
-    color: #000;
-    text-decoration: none;
-    font-family: Calibri;
-    font-size: 20px;
-}
-#nav a:hover {
-    color: red;
-}
-#d {
-    margin: 20px 0px 0px 0px;
-    font-weight: bold;
-    float: left;
-    display: inline;
-    width: 180px;
-    height: 60px;
-    background: #fff;
-    padding: 20px 0 0 20px;
-    text-align: left;
-}
-.mitm {
-    margin: 20px 0px 0px 0px;
-    float: left;
-    display: inline;
-    width: 60px;
-    height: 60px;
-    background: #fff;
-    padding: 20px 0 0 20px;
-    text-align: center;
 }
 }
