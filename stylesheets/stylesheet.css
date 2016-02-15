@@ -27,7 +27,7 @@ body {
 #nav {
 	text-align: center;
 	margin: 0px;
-	padding-bottom: 4%;
+	padding-bottom: 3%;
 }
 #nav ul {
 	list-style-type: none;
@@ -60,7 +60,7 @@ body {
 }
 #nav li {
 	display: inline;
-	padding: 45px;
+	padding: 55px;
 	margin: 0px;
 }
 
@@ -127,5 +127,16 @@ body {
 }
 #footer #container {
 	clear: both;
+}
+#aboutPar {
+	width: 60%;
+	margin: auto;
+	padding-bottom: 1%;
+}
+#aboutPar p{
+	text-align: justify;
+	line-height: 170%;
+	font-family: 'Open Sans', sans-serif;
+	margin: 0px;
 }
 }
