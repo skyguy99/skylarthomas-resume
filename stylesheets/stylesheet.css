@@ -29,6 +29,7 @@ body {
 	margin: 0px;
 	padding-bottom: 3.5%;
 }
+/*
 #nav ul {
 	list-style-type: none;
 	overflow: hidden;
@@ -62,7 +63,7 @@ body {
 	display: inline;
 	padding: 75px;
 	margin: 0px;
-}
+}*/
 
 #scrollDown {
 	margin-top: 1.7%;
@@ -166,23 +167,34 @@ body {
 }
 
 
-#nav_arrow {
-    position: relative;
-    background: transparent;
-    border-left: 7px solid transparent;
-    border-right: 7px solid transparent;
-    border-top: 10px solid #000;
-    border-bottom: none;
-    width: 0px;
-    height: 0px;
-    font-size: 1px;
-    margin: 20px 0 0 44px;
-    transition: margin 0.2s;
-    -moz-transition: margin 0.2s;
-    /* Firefox 4 */
-    -webkit-transition: margin 0.2s;
-    /* Safari and Chrome */
-    -o-transition: margin 0.2s;
-    /* Opera */
+#nav a {
+    color: #000;
+    text-decoration: none;
+    font-family: Calibri;
+    font-size: 20px;
+}
+#nav a:hover {
+    color: red;
+}
+#d {
+    margin: 20px 0px 0px 0px;
+    font-weight: bold;
+    float: left;
+    display: inline;
+    width: 180px;
+    height: 60px;
+    background: #fff;
+    padding: 20px 0 0 20px;
+    text-align: left;
+}
+.mitm {
+    margin: 20px 0px 0px 0px;
+    float: left;
+    display: inline;
+    width: 60px;
+    height: 60px;
+    background: #fff;
+    padding: 20px 0 0 20px;
+    text-align: center;
 }
 }
