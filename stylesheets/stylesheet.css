@@ -6,20 +6,20 @@ body {
 
 #page1 {
 	width: 100%;
-	background-color: #17B9FE;
+	background-color: #22c7fc;
 	margin: 0px;
 	height: 100%;
 	overflow: hidden;
 }
 #page2 {
 	width: 100%;
-	background-color: #464645;
+	background-color: #585857;
 	margin: 0px;
 	height: 100%;
 }
 #page3 {
 	width: 100%;
-	background-color: #17B9FE;
+	background-color: #22c7fc;
 	margin: 0px;
 	height: 100%;
 }
@@ -42,7 +42,7 @@ body {
 #nav a {
 	text-decoration: none;
 	font-weight: 200;
-	color: #09445F;
+	color: #0a5771;
 	padding-bottom: 30px;
 	position: relative;
 	margin: 0px;
@@ -54,7 +54,7 @@ body {
     height: 1px;
     bottom: 0;
     left: 25%;
-    border-bottom: 2px solid #d6d6d6;
+    border-bottom: 2px solid #0a5771;
 	margin: 0px;
 	
 }
@@ -107,7 +107,7 @@ body {
 }
 #page1 #footer {
         width: 100%;
-	background-color: #464645;
+	background-color: #585857;
 	margin: 0px;
 	height: 40%;	
 }
@@ -121,7 +121,7 @@ body {
 	padding-bottom: 3%;
 	font-size: 100pt;
 	font-family: "league-gothic",sans-serif;
-	color: #09445F;
+	color: #0a5771;
 	font-weight: 300;
 	margin: 0px;	
 }
