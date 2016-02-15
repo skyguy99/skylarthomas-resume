@@ -44,10 +44,11 @@ body {
 	text-decoration: none;
 	font-weight: 200;
 	color: #0a5771;
-	padding-bottom: 3%;
+	padding-bottom: 8%;
 	position: relative;
 	margin: 0px;
 }
+/*
 #nav a:hover:before {
 	content: "";
     position: absolute;
@@ -57,7 +58,7 @@ body {
     left: 25%;
     border-bottom: 2px solid #0a5771;
 	margin: 0px;
-	
+*/	
 }
 #nav li {
 	display: inline;
@@ -110,7 +111,7 @@ body {
         width: 100%;
 	background-color: #585857;
 	margin: 0px;
-	height: 45%;	
+	height: 43%;	
 }
 #page1Spacer {
         width: 100%;
