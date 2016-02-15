@@ -105,4 +105,10 @@ body {
 	font-weight: 300;
 	margin: 0px;
 }
+#bottomBlock {
+        width: 100%;
+	background-color: #464645;
+	margin: 0px;
+	height: 30%;	
+}
 }
