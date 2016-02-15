@@ -128,19 +128,6 @@ body {
 #footer #container {
 	clear: both;
 }
-#whoiam h3 {
-	position: absolute; 
-        top: 200px; 
-        width: 100%; 
-        
-        padding-top: 3%;
-	padding-bottom: 2%;
-	font-size: 40pt;
-	font-family: "league-gothic",sans-serif;
-	color: #585857;
-	font-weight: 300;
-	margin: 0px;	
-}
 #aboutPar {
 	width: 60%;
 	margin: auto;
@@ -159,6 +146,19 @@ body {
 position: relative; 
    width: 100%;
    margin: 0px;
+}
+#whoiam h3 {
+	position: absolute; 
+        top: 20px; 
+        width: 100%; 
+        
+        /*padding-top: 3%;
+	padding-bottom: 2%;*/
+	font-size: 40pt;
+	font-family: "league-gothic",sans-serif;
+	color: #585857;
+	font-weight: 300;
+	margin: 0px;	
 }
 #whoiam img {
 	height: 38px;
