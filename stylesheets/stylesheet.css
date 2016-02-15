@@ -153,14 +153,14 @@ body {
 	position: absolute; 
         width: 100%; 
 
-	font-size: 40pt;
+	font-size: 38pt;
 	font-family: "league-gothic",sans-serif;
 	color: #585857;
 	font-weight: 300;
 	margin: 0px;	
 }
 #whoiam img {
-	height: 62px;
+	height: 60px;
 	margin: 0px;
 	left: 5px;
 }
