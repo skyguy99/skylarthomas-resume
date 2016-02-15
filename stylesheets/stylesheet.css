@@ -129,7 +129,7 @@ body {
 	clear: both;
 }
 #aboutPar {
-	width: 60%;
+	width: 70%;
 	margin: auto;
 	padding-bottom: 1%;
 }
@@ -139,7 +139,7 @@ body {
 	font-family: 'Roboto', sans-serif;
 	font-weight: 100;
 	color: #ffffff;
-	font-size: 14pt;
+	font-size: 13pt;
 	margin: 0px;
 }
 #whoiam {
