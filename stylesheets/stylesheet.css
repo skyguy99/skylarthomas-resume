@@ -187,11 +187,9 @@ body {
 }
 .mitm {
     margin: 20px 0px 0px 0px;
-    float: left;
     display: inline;
     width: 60px;
     height: 60px;
-    background: #fff;
     padding: 20px 0 0 20px;
     text-align: center;
 }
