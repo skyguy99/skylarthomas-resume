@@ -43,7 +43,8 @@ body {
 	text-align: center;
 	padding: 0;
 	display: inline;
-	font-family: 'Dosis', sans-serif;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
 	font-size: 30pt;
 	margin: 0px;
 	
