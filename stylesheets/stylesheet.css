@@ -151,4 +151,13 @@ body {
 	font-size: 14pt;
 	margin: 0px;
 }
+#whoiam {
+position: relative; 
+   width: 100%;
+   margin: 0px;
+}
+#whoiam img {
+	height: 38px;
+	margin: 0px;
+}
 }
