@@ -128,7 +128,11 @@ body {
 #footer #container {
 	clear: both;
 }
-#footer h3 {
+#whoiam h3 {
+	position: absolute; 
+        top: 200px; 
+        width: 100%; 
+        
         padding-top: 3%;
 	padding-bottom: 2%;
 	font-size: 40pt;
