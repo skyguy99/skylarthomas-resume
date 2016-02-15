@@ -100,8 +100,18 @@ body {
 	padding-top: 3%;
 	padding-bottom: 3%;
 	font-size: 40pt;
-	font-family: 'Dosis', sans-serif;
+	font-family: "LeagueGothic","Helvetica Neue","Helvetica","Arial";
 	font-weight: 300;
 	margin: 0px;
+}
+@font-face {
+    font-family: 'LeagueGothic';
+    src: url('fonts/league_gothic/league_gothic-webfont.eot');
+    src: url('fonts/league_gothic/league_gothic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/league_gothic/league_gothic-webfont.woff') format('woff'),
+         url('fonts/league_gothic/league_gothic-webfont.ttf') format('truetype'),
+         url('fonts/league_gothic/league_gothic-webfont.svg#LeagueGothicRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 }
