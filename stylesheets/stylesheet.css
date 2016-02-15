@@ -145,6 +145,8 @@ body {
 #whoiam {
 position: relative; 
    width: 100%;
+   padding-top: 3%;
+padding-bottom: 2%;
    margin: 0px;
 }
 #whoiam h3 {
