@@ -35,7 +35,7 @@ body {
 	display: inline;
 	font-family: 'Roboto', sans-serif;
 	font-weight: 300;
-	font-size: 30pt;
+	font-size: 10pt;
 	margin: 0px;
 	
 }
@@ -110,5 +110,19 @@ body {
 	background-color: #464645;
 	margin: 0px;
 	height: 30%;	
+}
+#page1Spacer {
+        width: 100%;
+	margin: 0px;
+	height: 40%;	
+}
+#page1 h1 {
+	padding-top: 3%;
+	padding-bottom: 3%;
+	font-size: 70pt;
+	font-family: "league-gothic",sans-serif;
+	color: #09445F;
+	font-weight: 300;
+	margin: 0px;	
 }
 }
