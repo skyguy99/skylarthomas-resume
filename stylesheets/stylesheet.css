@@ -60,7 +60,7 @@ body {
 }
 #nav li {
 	display: inline;
-	padding: 60px;
+	padding: 70px;
 	margin: 0px;
 }
 
@@ -109,12 +109,12 @@ body {
         width: 100%;
 	background-color: #585857;
 	margin: 0px;
-	height: 39%;	
+	height: 40%;	
 }
 #page1Spacer {
         width: 100%;
 	margin: 0px;
-	height: 46%;	
+	height: 47%;	
 }
 #page1 h1 {
 	padding-top: 3%;
@@ -146,7 +146,7 @@ body {
    position: relative; 
    width: 100%;
    margin: 0px;
-   padding-top: 4%;
+   padding-top: 3%;
    padding-bottom: 3%;
 }
 #whoiam h3 {
