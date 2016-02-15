@@ -29,7 +29,6 @@ body {
 	margin: 0px;
 	padding-bottom: 3.5%;
 }
-
 #nav ul {
 	list-style-type: none;
 	overflow: hidden;
@@ -38,7 +37,7 @@ body {
 	display: inline;
 	font-family: 'Roboto', sans-serif;
 	font-weight: 500;
-	font-size: 13pt;
+	font-size: 16pt;
 	margin: 0px;
 	
 }
@@ -98,7 +97,7 @@ body {
 	font-weight: 300;
 	margin: 0px;
 }
-#page3 h1  {  
+#page3 h1  {
 	padding-top: 3%;
 	padding-bottom: 3%;
 	font-size: 40pt;
