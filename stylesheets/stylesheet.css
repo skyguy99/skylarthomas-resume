@@ -185,7 +185,7 @@ body {
     -o-transition: margin 0.2s;
     /* Opera */
 }
-/*.mitm {
+.mitm {
     margin: 20px 0px 0px 0px;
     display: inline;
     float: left;
@@ -193,10 +193,6 @@ body {
     height: 60px;
     padding: 20px 0 0 20px;
     text-align: center;
-}*/
-.mitm {
-        display: inline;
-	padding: 75px;
-	margin: 0px;
+    padding: 75px;
 }
 }
