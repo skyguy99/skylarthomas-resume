@@ -6,20 +6,20 @@ body {
 
 #page1 {
 	width: 100%;
-	background-color: #ff0000;
+	background-color: #17B9FE;
 	margin: 0px;
 	height: 100%;
 	overflow: hidden;
 }
 #page2 {
 	width: 100%;
-	background-color: #00ff00;
+	background-color: #464645;
 	margin: 0px;
 	height: 100%;
 }
 #page3 {
 	width: 100%;
-	background-color: #007799;
+	background-color: #17B9FE;
 	margin: 0px;
 	height: 100%;
 }
@@ -41,7 +41,7 @@ body {
 #nav a {
 	text-decoration: none;
 	font-weight: 200;
-	color: #d6d6d6;
+	color: #09445F;
 	padding-bottom: 30px;
 	position: relative;
 	margin: 0px;
