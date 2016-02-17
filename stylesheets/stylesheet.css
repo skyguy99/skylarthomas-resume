@@ -65,7 +65,7 @@ body {
 	margin: 0px;
 }
 #icon {
-	padding-bottom: 1%;
+	padding-bottom: 1.5%;
 	margin-bottom: 0px;
 }
 #icon img {
@@ -80,7 +80,7 @@ body {
 	text-decoration: none;
 }
 #scrollDown img {
-	height: 45px;
+	height: 55px;
 	margin-bottom: 0px;
 	}
 #scrollDown .text {
