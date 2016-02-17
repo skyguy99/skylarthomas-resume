@@ -273,4 +273,32 @@ body {
 	margin: 0px;
 	left: 5px;
 }
+h4 {
+        position: absolute; 
+        width: 100%; 
+
+	font-size: 35pt;
+	font-family: "league-gothic",sans-serif;
+	color: #22c7fc;
+	font-weight: 300;
+	margin: 0px;	
+}
+#hexacolor img {
+	height: 50px;
+	width: 300px;
+	margin: 0px;
+	left: 5px;
+}
+#frc img {
+	height: 60px;
+	width: 300px;
+	margin: 0px;
+	left: 5px;
+}
+#student img {
+	height: 60px;
+	width: 300px;
+	margin: 0px;
+	left: 5px;
+}
 }
