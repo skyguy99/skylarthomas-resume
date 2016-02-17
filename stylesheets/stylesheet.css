@@ -193,4 +193,49 @@ body {
     -o-transition: margin 0.2s;
     /* Opera */
 }
+#achievements h3 {
+	position: absolute; 
+        width: 100%; 
+
+	font-size: 38pt;
+	font-family: "league-gothic",sans-serif;
+	color: #585857;
+	font-weight: 300;
+	margin: 0px;	
+}
+#achievements img {
+	height: 60px;  
+	margin: 0px;
+	left: 5px;
+}
+#edu h3 {
+	position: absolute; 
+        width: 100%; 
+
+	font-size: 38pt;
+	font-family: "league-gothic",sans-serif;
+	color: #585857;
+	font-weight: 300;
+	margin: 0px;	
+}
+#edu img {
+	height: 60px;  
+	margin: 0px;
+	left: 5px;
+}
+#experience h3 {
+	position: absolute; 
+        width: 100%; 
+
+	font-size: 38pt;
+	font-family: "league-gothic",sans-serif;
+	color: #585857;
+	font-weight: 300;
+	margin: 0px;	
+}
+#experience img {
+	height: 60px;  
+	margin: 0px;
+	left: 5px;
+}
 }
