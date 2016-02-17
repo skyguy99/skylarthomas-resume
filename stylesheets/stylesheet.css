@@ -164,4 +164,20 @@ body {
 	margin: 0px;
 	left: 5px;
 }
+#menu .selected a:after {
+    content: " .";
+    display: block;
+    text-indent: -99em;
+    border-bottom: 0.8em solid #8adc92;
+    border-left: 0.8em solid transparent;
+    border-right: 0.8em solid transparent;
+    border-top: none;
+    height: 0px;
+    margin-left: -.8em;
+    margin-right: auto;
+    margin-top: 14px;
+    position: absolute;
+    left: 50%;
+    width: 1px;
+}
 }
