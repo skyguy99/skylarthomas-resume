@@ -66,7 +66,7 @@ body {
 }
 #icon {
 	bottom: 2%;
-	margin-bottom: 0px;
+	/*margin-bottom: 0px;*/
 }
 #icon img {
         height: 150px;
