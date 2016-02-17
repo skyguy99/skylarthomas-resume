@@ -277,7 +277,6 @@ h4 {
         position: absolute; 
         width: 100%; 
 	
-	right: 50px;
 	font-size: 27pt;
 	font-family: "league-gothic",sans-serif;
 	color: #22c7fc;
@@ -290,6 +289,9 @@ h4 {
 	margin: 0px;
 	left: 5px;
 }
+#hexacolor h4 {
+	right: 50px;
+}
 #frc img {
 	height: 45px;
 	width: 300px;
@@ -297,7 +299,7 @@ h4 {
 	left: 5px;
 }
 #student img {
-	height: 60px;
+	height: 45px;
 	width: 300px;
 	margin: 0px;
 	left: 5px;
