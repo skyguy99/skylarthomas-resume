@@ -164,7 +164,7 @@ body {
 	margin: 0px;
 	left: 5px;
 }
-#menu .selected a:after {
+#menu .selected a:hover {
     content: " .";
     display: block;
     text-indent: -99em;
