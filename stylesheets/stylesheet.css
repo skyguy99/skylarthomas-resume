@@ -276,7 +276,8 @@ body {
 h4 {
         position: absolute; 
         width: 100%; 
-
+	
+	left: 20px;
 	font-size: 27pt;
 	font-family: "league-gothic",sans-serif;
 	color: #22c7fc;
