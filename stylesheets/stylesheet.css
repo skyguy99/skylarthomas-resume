@@ -45,13 +45,13 @@ body {
 	text-decoration: none;
 	font-weight: 200;
 	color: #0a5771;
-	position: absolute;
+	position: relative;
 	margin: 0px;
 }
 
 #nav a:hover:before {
     content: "";
-    position: absolute;
+    position: relative;
     width: 50%;
     height: 1px;
     bottom: 0;
