@@ -1,5 +1,5 @@
 window.onload = function () {
-    var fine = [36, 34, 34, 34];
+    var fine = [34, 34, 34, 34, 34];
     var mitms = document.getElementsByClassName('mitm');
     var l0 = (mitms[0].offsetLeft + fine[0]);
     document.getElementById("nav_arrow").style.marginLeft = l0 + "px";
