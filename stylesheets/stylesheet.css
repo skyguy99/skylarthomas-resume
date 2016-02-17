@@ -65,7 +65,9 @@ body {
 	margin: 0px;
 }
 #icon {
-	padding-bottom: 2%;
+
+	padding-bottom: 5%;
+	margin: 0px;
 	/*margin-bottom: 0px;*/
 }
 #icon img {
@@ -125,8 +127,6 @@ body {
 	height: 43%;	
 }
 #page1 h1 {
-	padding-top: 0%;
-	padding-bottom: -1%;
 	font-size: 100pt;
 	font-family: "league-gothic",sans-serif;
 	color: #0a5771;
