@@ -63,7 +63,10 @@ body {
 	padding: 75px;
 	margin: 0px;
 }
-
+#icon img {
+        height: 4px;
+	margin-bottom: 0px;	
+}
 #scrollDown {
 	margin-top: 1.7%;
 	text-decoration: none;
@@ -72,11 +75,11 @@ body {
 	text-decoration: none;
 }
 #scrollDown img {
-	height: 14px;
+	height: 25px;
 	margin-bottom: 0px;
 	}
 #scrollDown .text {
-	color: #931702;
+	color: #ffffff;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 10pt; 
 	text-decoration: none;
