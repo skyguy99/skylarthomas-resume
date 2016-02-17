@@ -64,7 +64,7 @@ body {
 	margin: 0px;
 }
 #icon img {
-        height: 40px;
+        height: 80px;
 	margin-bottom: 0px;	
 }
 #scrollDown {
@@ -120,8 +120,8 @@ body {
 	height: 43%;	
 }
 #page1 h1 {
-	padding-top: 3%;
-	padding-bottom: 3%;
+	padding-top: 0%;
+	padding-bottom: 0%;
 	font-size: 100pt;
 	font-family: "league-gothic",sans-serif;
 	color: #0a5771;
