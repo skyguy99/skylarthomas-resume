@@ -204,7 +204,8 @@ body {
 	margin: 0px;	
 }
 #achievements img {
-	height: 60px;  
+	height: 60px;
+	width: 300px;
 	margin: 0px;
 	left: 5px;
 }
@@ -219,7 +220,8 @@ body {
 	margin: 0px;	
 }
 #edu img {
-	height: 60px;  
+	height: 60px;
+	width: 300px;
 	margin: 0px;
 	left: 5px;
 }
@@ -234,7 +236,8 @@ body {
 	margin: 0px;	
 }
 #experience img {
-	height: 60px;  
+	height: 60px;
+	width: 300px;
 	margin: 0px;
 	left: 5px;
 }
@@ -265,7 +268,8 @@ body {
 	margin: 0px;	
 }
 #languages img {
-	height: 60px;  
+	height: 60px;
+	width: 300px;
 	margin: 0px;
 	left: 5px;
 }
