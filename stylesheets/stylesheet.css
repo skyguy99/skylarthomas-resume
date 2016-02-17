@@ -65,7 +65,7 @@ body {
 	margin: 0px;
 }
 #icon {
-	bottom: 2%;
+	padding-bottom: 2%;
 	/*margin-bottom: 0px;*/
 }
 #icon img {
