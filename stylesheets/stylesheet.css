@@ -277,7 +277,7 @@ h4 {
         position: absolute; 
         width: 100%; 
 	
-	left: 20px;
+	right: 50px;
 	font-size: 27pt;
 	font-family: "league-gothic",sans-serif;
 	color: #22c7fc;
@@ -285,13 +285,13 @@ h4 {
 	margin: 0px;	
 }
 #hexacolor img {
-	height: 50px;
+	height: 45px;
 	width: 300px;
 	margin: 0px;
 	left: 5px;
 }
 #frc img {
-	height: 60px;
+	height: 45px;
 	width: 300px;
 	margin: 0px;
 	left: 5px;
@@ -303,13 +303,13 @@ h4 {
 	left: 5px;
 }
 #developer img {
-	height: 60px;
+	height: 45px;
 	width: 300px;
 	margin: 0px;
 	left: 5px;
 }
 #ttr img {
-	height: 60px;
+	height: 45px;
 	width: 300px;
 	margin: 0px;
 	left: 5px;
