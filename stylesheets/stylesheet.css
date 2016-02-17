@@ -336,4 +336,8 @@ h4 {
 #saviors h4 {
 	right: 90px;
 }
+#years img {
+	height: 45px;
+	margin: 0px;
+}
 }
