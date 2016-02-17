@@ -175,11 +175,11 @@ body {
 }
 #nav_arrow {
     position: relative;
-    text-align: center;
+    right: 3%;
     background: transparent;
     border-left: 7px solid transparent;
     border-right: 7px solid transparent;
-    border-bottom: 10px solid #000;
+    border-bottom: 10px solid #ffffff;
     border-top: none;
     width: 0px;
     height: 0px;
