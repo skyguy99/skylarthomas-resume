@@ -125,7 +125,7 @@ body {
 #page1Spacer {
         width: 100%;
 	margin: 0px;
-	height: 42%;	
+	height: 41%;	
 }
 #page1 h1 {
 	font-size: 100pt;
@@ -176,10 +176,11 @@ body {
 #nav_arrow {
     position: relative;
     left: 10%;
+    top: 3%;
     background: transparent;
     border-left: 7px solid transparent;
     border-right: 7px solid transparent;
-    border-bottom: 10px solid #ffffff;
+    border-bottom: 10px solid #585857;
     border-top: none;
     width: 0px;
     height: 0px;
