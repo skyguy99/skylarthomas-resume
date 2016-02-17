@@ -126,7 +126,7 @@ body {
 }
 #page1 h1 {
 	padding-top: 0%;
-	padding-bottom: 0%;
+	padding-bottom: -1%;
 	font-size: 100pt;
 	font-family: "league-gothic",sans-serif;
 	color: #0a5771;
