@@ -175,7 +175,7 @@ body {
 }
 #nav_arrow {
     position: relative;
-    left: 4%;
+    left: 3.5%;
     top: 9%;
     background: transparent;
     border-left: 25px solid transparent;
@@ -205,7 +205,7 @@ body {
 }
 #achievements img {
 	height: 60px;
-	width: 300px;
+	width: 280px;
 	margin: 0px;
 	left: 5px;
 }
@@ -221,7 +221,7 @@ body {
 }
 #edu img {
 	height: 60px;
-	width: 300px;
+	width: 210px;
 	margin: 0px;
 	left: 5px;
 }
@@ -237,7 +237,7 @@ body {
 }
 #experience img {
 	height: 60px;
-	width: 300px;
+	width: 210px;
 	margin: 0px;
 	left: 5px;
 }
@@ -253,7 +253,7 @@ body {
 }
 #software img {
 	height: 60px;
-	width: 500px;
+	width: 400px;
 	margin: 0px;
 	left: 5px;
 }
@@ -269,7 +269,7 @@ body {
 }
 #languages img {
 	height: 60px;
-	width: 460px;
+	width: 420px;
 	margin: 0px;
 	left: 5px;
 }
@@ -298,11 +298,17 @@ h4 {
 	margin: 0px;
 	left: 5px;
 }
+#frc h4 {
+	right: 60px;
+}
 #student img {
 	height: 45px;
 	width: 300px;
 	margin: 0px;
 	left: 5px;
+}
+#student h4 {
+	right: 60px;
 }
 #developer img {
 	height: 45px;
@@ -310,16 +316,25 @@ h4 {
 	margin: 0px;
 	left: 5px;
 }
+#developer h4{
+	right: 60px;
+}
 #ttr img {
 	height: 45px;
 	width: 300px;
 	margin: 0px;
 	left: 5px;
 }
+#ttr h4 {
+	right: 60px;
+}
 #saviors img {
 	height: 45px;
 	width: 300px;
 	margin: 0px;
 	left: 40px;
+}
+#saviors h4 {
+	right: 80px;
 }
 }
