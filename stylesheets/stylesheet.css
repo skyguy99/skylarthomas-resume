@@ -204,7 +204,7 @@ body {
 }
 #achievements img {
 	height: 60px;
-	width: 260px;
+	width: 255px;
 	margin: 0px;
 	left: 5px;
 }
@@ -252,7 +252,7 @@ body {
 }
 #software img {
 	height: 60px;
-	width: 400px;
+	width: 385px;
 	margin: 0px;
 	left: 5px;
 }
@@ -268,7 +268,7 @@ body {
 }
 #languages img {
 	height: 60px;
-	width: 405px;
+	width: 390px;
 	margin: 0px;
 	left: 5px;
 }
@@ -289,7 +289,7 @@ h4 {
 	left: 5px;
 }
 #hexacolor h4 {
-	right: 68px;
+	right: 70px;
 }
 #frc img {
 	height: 45px;
@@ -307,7 +307,7 @@ h4 {
 	left: 5px;
 }
 #student h4 {
-	right: 75px;
+	right: 80px;
 }
 #developer img {
 	height: 45px;
@@ -334,6 +334,6 @@ h4 {
 	left: 40px;
 }
 #saviors h4 {
-	right: 95px;
+	right: 90px;
 }
 }
