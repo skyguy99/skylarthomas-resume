@@ -193,9 +193,7 @@ body {
     /* Opera */
 }
 #achievements h3 {
-	position: absolute; 
         width: 100%; 
-float: left;
 	font-size: 38pt;
 	font-family: "league-gothic",sans-serif;
 	color: #585857;
