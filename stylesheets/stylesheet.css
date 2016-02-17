@@ -175,7 +175,7 @@ body {
 }
 #nav_arrow {
     position: relative;
-    right: 3%;
+    left: 3%;
     background: transparent;
     border-left: 7px solid transparent;
     border-right: 7px solid transparent;
