@@ -155,7 +155,7 @@ body {
    position: relative; 
    width: 100%;
    margin: 0px;
-   padding-top: 3.7%;
+   /*padding-top: 3.7%;*/
    padding-bottom: 3%;
 }
 #whoiam h3 {
