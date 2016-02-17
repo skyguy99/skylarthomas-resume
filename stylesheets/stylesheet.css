@@ -86,6 +86,7 @@ body {
 	margin-bottom: 0px;
 	}
 #scrollDown .text {
+	padding-top: 1.5%;
 	color: #ffffff;
 	font-family: 'Roboto', sans-serif;
 	font-size: 10pt; 
