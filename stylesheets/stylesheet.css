@@ -205,7 +205,7 @@ body {
 }
 #achievements img {
 	height: 60px;
-	width: 280px;
+	width: 270px;
 	margin: 0px;
 	left: 5px;
 }
@@ -221,7 +221,7 @@ body {
 }
 #edu img {
 	height: 60px;
-	width: 210px;
+	width: 200px;
 	margin: 0px;
 	left: 5px;
 }
@@ -290,7 +290,7 @@ h4 {
 	left: 5px;
 }
 #hexacolor h4 {
-	right: 50px;
+	right: 60px;
 }
 #frc img {
 	height: 45px;
@@ -299,7 +299,7 @@ h4 {
 	left: 5px;
 }
 #frc h4 {
-	right: 60px;
+	right: 55px;
 }
 #student img {
 	height: 45px;
@@ -308,7 +308,7 @@ h4 {
 	left: 5px;
 }
 #student h4 {
-	right: 60px;
+	right: 75px;
 }
 #developer img {
 	height: 45px;
@@ -317,7 +317,7 @@ h4 {
 	left: 5px;
 }
 #developer h4{
-	right: 60px;
+	right: 55px;
 }
 #ttr img {
 	height: 45px;
@@ -326,7 +326,7 @@ h4 {
 	left: 5px;
 }
 #ttr h4 {
-	right: 60px;
+	right: 50px;
 }
 #saviors img {
 	height: 45px;
@@ -335,6 +335,6 @@ h4 {
 	left: 40px;
 }
 #saviors h4 {
-	right: 80px;
+	right: 87px;
 }
 }
