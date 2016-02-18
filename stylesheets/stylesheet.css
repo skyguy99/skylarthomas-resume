@@ -192,6 +192,11 @@ body {
     -o-transition: margin 0.2s;
     /* Opera */
 }
+
+#achievements {
+        position: absolute;
+	float: left;
+}
 #achievements h3 {
 	position: absolute;
 	text-align: left;
