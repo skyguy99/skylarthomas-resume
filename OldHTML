@@ -1,0 +1,195 @@
+<html>
+<head>
+    <title>Skylar Thomas</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+
+<link href='https://fonts.googleapis.com/css?family=Dosis:400,300,200,700' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700' rel='stylesheet' type='text/css'>
+
+<script src="myscripts.js"></script>
+<script src="https://use.typekit.net/mcx3jgx.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://github.com/kswedberg/jquery-smooth-scroll/blob/master/jquery.smooth-scroll.min.js"></script>
+
+<script> /*CUSTOM CODE*/
+$('.smooth').on('click', function() {
+    $.smoothScroll({
+        scrollElement: $('body'),
+        scrollTarget: '#' + this.id
+    });
+    
+    return false;
+});
+$(function() {
+  $('a[href*="#"]:not([href="#"])').click(function() {
+    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+      var target = $(this.hash);
+      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+      if (target.length) {
+        $('html, body').animate({
+          scrollTop: target.offset().top
+        }, 1000);
+        return false;
+      }
+    }
+  });
+});
+</script> 
+</head>
+
+
+<body>
+
+<div id="page1">
+  <a id="about" class="smooth"></a>
+<div id = "container">
+<div id="scrollDown"><a href="#contactPage">
+    <div class ="text">CONTACT</div>
+	<img src="https://cloud.githubusercontent.com/assets/16522243/13100374/4489f778-d4f1-11e5-942a-a7506cee4c71.png" class="image"/></a>
+</div>
+<div id = "page1Spacer">
+	<h1>SKYLAR THOMAS</h1>
+	<div id="icon">
+	<img src="https://cloud.githubusercontent.com/assets/16522243/13100360/2b4ff190-d4f1-11e5-87f4-6bedc0df3318.png" class="image2"/>
+	</div>
+</div>
+  <div id="nav">
+     <ul>
+         <li class="mitm"><a href="#page1">PROFILE</a></li>
+         <li class="mitm"><a href="#page2">EDUCATION</a></li>
+         <li class="mitm"><a href="#page2">ACHIEVEMENTS</a></li>
+ 	<li class="mitm"><a href="#page2">EXPERIENCE</a></li>
+         <li class="mitm"><a href="#page3">SKILLS</a></li>
+     </ul>
+</div>
+<div id="nav_arrow"></div>
+</div>
+<div id = "footer">
+	<div id= "whoiam">
+	<h3>WHO I AM</h3>
+	<img src="https://cloud.githubusercontent.com/assets/16522243/13042099/168c8b5e-d372-11e5-9eda-43d5386b4856.png">	
+	</div>
+	<div id = "aboutPar">
+         <p>My name is Skylar. I am a <b>16-year-old developer, designer and inventor</b> who loves making cool products for others to experience. Highly detailed and an incredibly fast learner, I am a high school student and currently fill the role of CEO at TroubleMaker Technologies, my independent startup company that aims to fuse imagination with technology. </p>
+	</div>
+</div>
+</div>
+ 
+<div id="page2">  
+  <a id="about" class="smooth"></a>
+  <div id="titles1">
+	<div id= "achievements">
+	<h3>ACHIEVEMENTS</h3>
+	<img src="https://cloud.githubusercontent.com/assets/16522243/13042099/168c8b5e-d372-11e5-9eda-43d5386b4856.png">	
+	</div>
+	<div id= "hexacolor">
+	<h4>HEXACOLOR</h4>
+	<img src="https://cloud.githubusercontent.com/assets/16522243/13127592/15fbedb4-d585-11e5-985c-ba32f03e430b.png">
+	<div id= "p1">
+	<p>Developed biometrics app that converts user’s eye color into a hexadecimal code password and won 2nd place in Monterey Science Fair.</p>
+	</div>
+	</div>
+	<div id= "frc">
+	<h4>FRC TEAM 2035</h4>
+	<img src="https://cloud.githubusercontent.com/assets/16522243/13127592/15fbedb4-d585-11e5-985c-ba32f03e430b.png">
+	<div id= "p1">
+	<p>Developed biometrics app that converts user’s eye color into a hexadecimal code password and won 2nd place in Monterey Science Fair.</p>
+	</div>
+	</div>
+	
+	<div id= "edu">
+	<h3>EDUCATION</h3>
+	<img src="https://cloud.githubusercontent.com/assets/16522243/13042099/168c8b5e-d372-11e5-9eda-43d5386b4856.png">	
+	</div>
+	<div id= "student">
+	<h4>STUDENT</h4>
+	<img src="https://cloud.githubusercontent.com/assets/16522243/13127592/15fbedb4-d585-11e5-985c-ba32f03e430b.png">
+	<div id= "p1">
+	<p><a href="http://www.carmelhigh.org/site/default.aspx?PageID=1931">Carmel High</a> is cool fsahfiiiiiiiifffffffffffffffffffffffffffffffffffffffffffffffffff</p>
+	</div>
+	</div>
+</div>
+<div id = "years">
+<img src="https://cloud.githubusercontent.com/assets/16522243/13128644/26ad7cfc-d58c-11e5-8583-9969d5d5c3d4.png">	
+</div>	
+<div id="titles2">
+	<div id= "experience">
+	<h3>EXPERIENCE</h3>
+	<img src="https://cloud.githubusercontent.com/assets/16522243/13042099/168c8b5e-d372-11e5-9eda-43d5386b4856.png">	
+	</div>
+	<div id= "developer">
+	<h4>APP DEVELOPER</h4>
+	<img src="https://cloud.githubusercontent.com/assets/16522243/13127592/15fbedb4-d585-11e5-985c-ba32f03e430b.png">
+	<div id= "p2">
+	<p>Developed biometrics app that converts user’s eye color into a hexadecimal code password and won 2nd place in Monterey Science Fair.</p>
+	</div>
+	</div>
+	<div id= "ttr">
+	<h4>TICTACRAINBOW</h4>
+	<img src="https://cloud.githubusercontent.com/assets/16522243/13127592/15fbedb4-d585-11e5-985c-ba32f03e430b.png">
+	<div id= "p2">
+	<p>Developed biometrics app that converts user’s eye color into a hexadecimal code password and won 2nd place in Monterey Science Fair.</p>
+	</div>
+	</div>
+	<div id= "saviors">
+	<h4>SAVIORS</h4>
+	<img src="https://cloud.githubusercontent.com/assets/16522243/13127592/15fbedb4-d585-11e5-985c-ba32f03e430b.png">
+	<div id= "p2">
+	<p>Developed biometrics app that converts user’s eye color into a hexadecimal code password and won 2nd place in Monterey Science Fair.</p>
+	</div>
+	</div>
+</div>
+</div>
+<div id="page3">  
+  <a id="about" class="smooth"></a>
+	<div id= "software">
+	<h3>SOFTWARE EXPERIENCE</h3>
+	<img src="https://cloud.githubusercontent.com/assets/16522243/13127374/defbe6a8-d583-11e5-9065-90491a3546a1.png">	
+	</div>
+	<span class="circles">
+<table>
+<tr>
+<th><img src="images/kita.jpg" style="width: 180px; margin-bottom: 5px;"><br><p id = "circleText">Hello world</p></th>
+<th><img src="images/kita.jpg" style="width: 180px; margin-bottom: 5px;"><br><p id = "circleText">Hello world</p></th>
+<th><img src="images/kita.jpg" style="width: 180px; margin-bottom: 5px;"><br><p id = "circleText">Hello world</p></th>
+<th><img src="images/kita.jpg" style="width: 180px; margin-bottom: 5px;"><br><p id = "circleText">Hello world</p></th>
+<th><img src="images/kita.jpg" style="width: 180px; margin-bottom: 5px;"><br><p id = "circleText">Hello world</p></th>
+</tr></table>
+</span>
+	<div id= "languages">
+	<h3>LANGUAGES AND SKILLS</h3>
+	<img src="https://cloud.githubusercontent.com/assets/16522243/13127374/defbe6a8-d583-11e5-9065-90491a3546a1.png">	
+	</div>
+	<span class="bars">
+<table>
+<tr>
+<th><img src="images/kita.jpg" ></th>
+<th><img src="images/kita.jpg" ></th>
+</tr></table>
+</span>
+</div>
+<div id="contactPage">  
+  <a id="about" class="smooth"></a>
+  <div id="contactIcon"><a href="mailto:skythomas.tm@gmail.com">
+    <div class ="text">skythomas.tm@gmail.com</div>
+	<img src="https://cloud.githubusercontent.com/assets/16522243/13100374/4489f778-d4f1-11e5-942a-a7506cee4c71.png" class="image"/></a>
+</div>
+<div id="contactIcon"><a href="#contactPage">
+    <div class ="text">(408) 663-3083</div>
+	<img src="https://cloud.githubusercontent.com/assets/16522243/13100374/4489f778-d4f1-11e5-942a-a7506cee4c71.png" class="image"/></a>
+</div>
+<div id="contactIcon"><a href="http://www.troublemakertechnologies.com">
+    <div class ="text">troublemakertechnologies.com</div>
+	<img src="https://cloud.githubusercontent.com/assets/16522243/13100374/4489f778-d4f1-11e5-942a-a7506cee4c71.png" class="image"/></a>
+</div>
+ </div>
+</body>
+</html>
