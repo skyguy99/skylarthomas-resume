@@ -200,7 +200,7 @@ body {
     -o-transition: margin 0.2s;
     /* Opera */
 }
-
+/*
 #achievements {
 	padding-top: 2%;
         position: absolute;
@@ -229,7 +229,7 @@ body {
        position: absolute;
 	float: left;
 	left: 2%;
-	padding-bottom: 1%; /*THIS*/
+	padding-bottom: 1%;
 }
 #edu h3 {
 	position: absolute;
@@ -486,6 +486,10 @@ padding-right: 2%;
 #p2 a {
 	text-decoration: none;
 	color: #ffffff;
+}*/
+#mainpage2 img {
+height: 90%;
+	margin: 0px;	
 }
 #contactIcon {
 	text-decoration: none;
