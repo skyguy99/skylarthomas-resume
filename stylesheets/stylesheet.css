@@ -306,6 +306,7 @@ h4 {
 }
 #hexacolor {
 	padding-top: 8%;
+	position: absolute;
 	float: left;
 	left: 4%;	
 }
