@@ -320,7 +320,7 @@ h4 {
 #hexacolor h4 {
 	position: absolute;
 	text-align: left;
-	left: 6%;
+	left: 3%;
 	right: 70px;
 }
 #frc {
@@ -443,5 +443,6 @@ text-align: justify;
 }
 #p1 {
 width: 33.3%;
+padding-left: 1%;
 }
 }
