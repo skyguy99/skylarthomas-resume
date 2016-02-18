@@ -19,6 +19,8 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="https://github.com/kswedberg/jquery-smooth-scroll/blob/master/jquery.smooth-scroll.min.js"></script>
 
+<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script> <!-- THIS-->
+
 <script> /*CUSTOM CODE*/
 $('.smooth').on('click', function() {
     $.smoothScroll({
@@ -42,6 +44,17 @@ $(function() {
     }
   });
 });
+
+$(window).scroll(function() {
+		$('#mainpage2').each(function(){
+		var imagePos = $(this).offset().top;
+
+		var topOfWindow = $(window).scrollTop();
+			if (imagePos < topOfWindow+400) {
+				$(this).addClass("slideUp");
+			}
+		});
+	});
 </script> 
 </head>
 
@@ -85,7 +98,7 @@ $(function() {
  
 <div id="page2">  
   <a id="about" class="smooth"></a>
-<div id = "mainpage2">
+<div id = "mainpage2" class = "slideUp">
 <img src="https://cloud.githubusercontent.com/assets/16522243/13128644/26ad7cfc-d58c-11e5-8583-9969d5d5c3d4.png">	
 </div>
 </div>
