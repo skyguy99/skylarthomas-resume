@@ -17,12 +17,14 @@ body {
 	background-color: #585857;
 	margin: 0px;
 	height: 100%;
+	z-index: -1;
 }
 #page3 {
 	width: 100%;
 	background-color: #22c7fc;
 	margin: 0px;
 	height: 100%;
+	z-index:1;
 }
 #contactPage {
         width: 100%;
