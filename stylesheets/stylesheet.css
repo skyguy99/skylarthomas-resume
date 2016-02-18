@@ -357,7 +357,7 @@ padding-top: 3%;
 }
 #developer {
 	padding-top: 2%;
-position: absolute;
+        position: absolute;
 	float: right;
 	right: 2%;	
 }
@@ -373,6 +373,12 @@ position: absolute;
 	left: 6%;
 	right: 55px;
 }
+#ttr {
+	padding-top: 2%;
+        position: absolute;
+	float: right;
+	right: 2%;
+}
 #ttr img {
 	height: 45px;
 	width: 300px;
@@ -381,6 +387,12 @@ position: absolute;
 }
 #ttr h4 {
 	right: 50px;
+}
+#saviors {
+	padding-top: 2%;
+        position: absolute;
+	float: right;
+	right: 2%;
 }
 #saviors img {
 	height: 45px;
@@ -392,7 +404,7 @@ position: absolute;
 	right: 90px;
 }
 #years img {
-	height: 45px;
+	height: 20%;
 	margin: 0px;
 }
 #titles1 {
