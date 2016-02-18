@@ -397,10 +397,7 @@ padding-top: 575px;
 	left: 5px;
 }
 #developer h4{
-	position: absolute;
-	text-align: left;
-	left: 6%;
-	right: 55px;
+	right: 90px;
 }
 #ttr {
 	padding-top: 300px;
@@ -444,6 +441,15 @@ padding-top: 575px;
 	
 }
 #titles1 p {
+text-align: justify;
+	line-height: 150%;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	color: #ffffff;
+	font-size: 10pt;
+	margin: 0px;
+}
+#titles2 p {
 text-align: justify;
 	line-height: 150%;
 	font-family: 'Roboto', sans-serif;
