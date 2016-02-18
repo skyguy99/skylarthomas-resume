@@ -517,4 +517,11 @@ padding-right: 2%;
 
 #contactIcon:hover .image {opacity:0.2;}
 #contactIcon:hover .text {opacity:1;}
+
+#circles table {
+  align: center;
+}
+#circleText {
+  color: #ffffff;
+}
 }
