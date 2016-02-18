@@ -454,4 +454,8 @@ text-align: justify;
 width: 33.3%;
 padding-left: 2%;
 }
+#p1 a {
+	text-decoration: none;
+	color: #ffffff;
+}
 }
