@@ -226,7 +226,8 @@ body {
 	padding-top: 570px;
        position: absolute;
 	float: left;
-	left: 2%;	
+	left: 2%;
+	padding-bottom: 1%; /*THIS*/
 }
 #edu h3 {
 	position: absolute;
