@@ -249,7 +249,7 @@ body {
 }
 #experience {
 	padding-top: 2%;
-position: absolute;
+        position: absolute;
 	float: right;
 	right: 10%;	
 }
@@ -272,7 +272,7 @@ position: absolute;
 #software h3 {
 	position: absolute; 
         width: 100%; 
-
+	padding-top: 2%;
 	font-size: 38pt;
 	font-family: "league-gothic",sans-serif;
 	color: #0a5771;
