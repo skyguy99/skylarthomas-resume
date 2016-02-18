@@ -407,7 +407,7 @@ padding-top: 38%;
 	right: 90px;
 }
 #years img {
-	height: 70%;
+	height: 90%;
 	margin: 0px;
 }
 #titles1 {
@@ -416,6 +416,15 @@ padding-top: 38%;
   float:left;
   padding-top: 4%;
 	
+}
+#titles1 p {
+text-align: justify;
+	line-height: 150%;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	color: #ffffff;
+	font-size: 10pt;
+	margin: 0px;	
 }
 #years {
   width:33.3%;
