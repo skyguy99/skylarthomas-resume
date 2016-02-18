@@ -196,6 +196,7 @@ body {
 #achievements {
         position: absolute;
 	float: left;
+	left: 2%;
 }
 #achievements h3 {
 	position: absolute;
@@ -214,8 +215,15 @@ body {
 	margin: 0px;
 	left: 5px;
 }
+#edu {
+       position: absolute;
+	float: left;
+	left: 2%;	
+}
 #edu h3 {
-	position: absolute; 
+	position: absolute;
+	text-align: left;
+	left: 6%;
         width: 100%; 
 
 	font-size: 38pt;
@@ -229,6 +237,11 @@ body {
 	width: 200px;
 	margin: 0px;
 	left: 5px;
+}
+#experience {
+position: absolute;
+	float: right;
+	right: 2%;	
 }
 #experience h3 {
 	position: absolute; 
