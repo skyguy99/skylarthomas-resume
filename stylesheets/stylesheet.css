@@ -506,12 +506,14 @@ padding-right: 2%;
 }
 #contactIcon {
 	display: inline-block;
+	padding: 3%;
+	padding-top: 9%;
 }
 
 #contactIcon .image,
 #contactIcon .text {transition: opacity 0.4s ease-in-out;}
 #contactIcon .text {top:0; left:0; opacity:0;}
 
-#contactIcon:hover .image {opacity:0;}
+#contactIcon:hover .image {opacity:0.2;}
 #contactIcon:hover .text {opacity:1;}
 }
