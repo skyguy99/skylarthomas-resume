@@ -312,7 +312,7 @@ h4 {
 	margin: 0px;	
 }
 #hexacolor {
-	padding-top: 50px;
+	padding-top: 100px;
 	position: absolute;
 	float: left;
 	left: 4%;	
@@ -331,7 +331,7 @@ h4 {
 	right: 70px;
 }
 #frc {
-padding-top: 150px;
+padding-top: 350px;
         position: absolute;
 	float: left;
 	left: 4%;	
@@ -346,7 +346,7 @@ padding-top: 150px;
 #frc h4 {
 	position: absolute;
 	text-align: left;
-	left: 6%;
+	left: 4%;
 	right: 55px;
 }
 #student {
