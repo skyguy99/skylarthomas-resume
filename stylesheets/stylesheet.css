@@ -194,6 +194,7 @@ body {
 }
 
 #achievements {
+	padding-top: 4%;
         position: absolute;
 	float: left;
 	left: 2%;
@@ -404,7 +405,7 @@ padding-top: 3%;
 	right: 90px;
 }
 #years img {
-	height: 20%;
+	height: 80%;
 	margin: 0px;
 }
 #titles1 {
