@@ -301,6 +301,11 @@ h4 {
 	font-weight: 300;
 	margin: 0px;	
 }
+#hexacolor {
+        position: absolute;
+	float: left;
+	left: 2%;	
+}
 #hexacolor img {
 	height: 45px;
 	width: 300px;
@@ -308,6 +313,9 @@ h4 {
 	left: 5px;
 }
 #hexacolor h4 {
+	position: absolute;
+	text-align: left;
+	left: 6%;
 	right: 70px;
 }
 #frc img {
