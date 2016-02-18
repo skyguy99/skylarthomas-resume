@@ -302,6 +302,7 @@ h4 {
 	margin: 0px;	
 }
 #hexacolor {
+	padding-top: 3%;
         position: absolute;
 	float: left;
 	left: 2%;	
@@ -318,6 +319,12 @@ h4 {
 	left: 6%;
 	right: 70px;
 }
+#frc {
+padding-top: 3%;
+        position: absolute;
+	float: left;
+	left: 2%;	
+}
 #frc img {
 	height: 45px;
 	width: 300px;
@@ -325,7 +332,16 @@ h4 {
 	left: 5px;
 }
 #frc h4 {
+	position: absolute;
+	text-align: left;
+	left: 6%;
 	right: 55px;
+}
+#student {
+padding-top: 3%;
+        position: absolute;
+	float: left;
+	left: 2%;	
 }
 #student img {
 	height: 45px;
@@ -334,7 +350,16 @@ h4 {
 	left: 5px;
 }
 #student h4 {
+	position: absolute;
+	text-align: left;
+	left: 6%;
 	right: 80px;
+}
+#developer {
+	padding-top: 2%;
+position: absolute;
+	float: right;
+	right: 2%;	
 }
 #developer img {
 	height: 45px;
@@ -343,6 +368,9 @@ h4 {
 	left: 5px;
 }
 #developer h4{
+	position: absolute;
+	text-align: left;
+	left: 6%;
 	right: 55px;
 }
 #ttr img {
