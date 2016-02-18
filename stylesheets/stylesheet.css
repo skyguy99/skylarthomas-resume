@@ -518,10 +518,18 @@ padding-right: 2%;
 #contactIcon:hover .image {opacity:0.2;}
 #contactIcon:hover .text {opacity:1;}
 
-#circles table {
+table {
   align: center;
+  margin: auto;
+}
+th {
+	padding: 2%;
 }
 #circleText {
-  color: #ffffff;
+  padding-top: 1.5%;
+	color: #ffffff;
+	font-family: 'Roboto', sans-serif;
+	font-size: 10pt; 
+	text-decoration: none;
 }
 }
