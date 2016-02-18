@@ -217,7 +217,7 @@ body {
 	left: 5px;
 }
 #edu {
-	padding-top: 29%;
+	padding-top: 45px;
        position: absolute;
 	float: left;
 	left: 2%;	
@@ -324,10 +324,10 @@ h4 {
 	right: 70px;
 }
 #frc {
-padding-top: 10px;
+padding-top: 25px;
         position: absolute;
 	float: left;
-	left: 4%;	
+	left: 2%;	
 }
 #frc img {
 	height: 45px;
@@ -343,7 +343,7 @@ padding-top: 10px;
 	right: 55px;
 }
 #student {
-padding-top: 38%;
+padding-top: 40px;
         position: absolute;
 	float: left;
 	left: 4%;	
@@ -353,6 +353,7 @@ padding-top: 38%;
 	width: 300px;
 	margin: 0px;
 	left: 5px;
+	float: left;
 }
 #student h4 {
 	position: absolute;
