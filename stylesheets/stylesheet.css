@@ -487,4 +487,31 @@ padding-right: 2%;
 	text-decoration: none;
 	color: #ffffff;
 }
+#contactIcon {
+	text-decoration: none;
+}
+#contactIcon a {
+	text-decoration: none;
+}
+#contactIcon img {
+	height: 55px;
+	margin-bottom: 0px;
+	}
+#contactIcon .text {
+	padding-top: 1.5%;
+	color: #ffffff;
+	font-family: 'Roboto', sans-serif;
+	font-size: 10pt; 
+	text-decoration: none;
+}
+#contactIcon {
+	display: inline-block;
+}
+
+#contactIcon .image,
+#contactIcon .text {transition: opacity 0.4s ease-in-out;}
+#contactIcon .text {top:0; left:0; opacity:0;}
+
+#contactIcon:hover .image {opacity:0;}
+#contactIcon:hover .text {opacity:1;}
 }
