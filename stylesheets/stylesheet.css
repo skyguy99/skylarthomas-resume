@@ -315,6 +315,7 @@ h4 {
 	width: 300px;
 	margin: 0px;
 	left: 5px;
+	float: left;
 }
 #hexacolor h4 {
 	position: absolute;
