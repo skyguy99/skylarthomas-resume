@@ -204,7 +204,6 @@ body {
 #mainpage2 img {
 height: 90%;
 	margin: 0px;
-	visibility: hidden; /*changed*/
 }
 #software {
 position: relative; 
@@ -303,6 +302,7 @@ table {
 	padding: 15%;
 }
 
+/*ANIMATIONS STUFF*/
 .slideUp{
 	animation-name: slideUp;
 	-webkit-animation-name: slideUp;	
