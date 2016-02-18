@@ -424,7 +424,8 @@ text-align: justify;
 	font-weight: 100;
 	color: #ffffff;
 	font-size: 10pt;
-	margin: 0px;	
+	margin: 0px;
+	width: 33.3%;
 }
 #years {
   width:33.3%;
