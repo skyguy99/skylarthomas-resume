@@ -506,8 +506,9 @@ padding-right: 2%;
 }
 #contactIcon {
 	display: inline-block;
-	padding: 3%;
-	padding-top: 9%;
+	padding-left: 3%;
+	padding-right: 3%;
+	padding-top: 5%;
 }
 
 #contactIcon .image,
