@@ -297,11 +297,11 @@ table {
 	font-size: 10pt; 
 	text-decoration: none;
 }
-.bars img {
-	height: 100px;
+#bars1, #bars2 {
+	float:left;
 }
-.bars th {
-	padding: 15%;
+#bars1 img {
+	height: 20%;
 }
 
 /*ANIMATIONS STUFF*/
