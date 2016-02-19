@@ -293,7 +293,8 @@ table {
   padding-top: 1.5%;
 	color: #ffffff;
 	font-family: 'Roboto', sans-serif;
-	font-size: 10pt; 
+	font-weight: 300;
+	font-size: 12pt; 
 	text-decoration: none;
 }
 .bars img {
