@@ -297,16 +297,12 @@ table {
 	font-size: 10pt; 
 	text-decoration: none;
 }
-#bars1, #bars2 {
-	float:left;
-}
-#bars1, #bars2 img {
-	height: 40%;
-}
 #barsWrapper {
-	text-align: center;
-	width: 70%;
-    margin: 0 auto;
+margin: 0px;
+padding-top: 1%;
+}
+#barsWrapper img {
+	height: 60%;
 }
 
 /*ANIMATIONS STUFF*/
