@@ -299,10 +299,10 @@ table {
 }
 #barsWrapper {
 margin: 0px;
-padding-top: 1%;
+padding-top: 1.5%;
 }
 #barsWrapper img {
-	height: 60%;
+	height: 30%;
 }
 
 /*ANIMATIONS STUFF*/
