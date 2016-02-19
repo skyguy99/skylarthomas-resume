@@ -300,8 +300,13 @@ table {
 #bars1, #bars2 {
 	float:left;
 }
-#bars1 img {
-	height: 20%;
+#bars1, #bars2 img {
+	height: 40%;
+}
+#barsWrapper {
+	text-align: center;
+	width: 70%;
+    margin: 0 auto;
 }
 
 /*ANIMATIONS STUFF*/
